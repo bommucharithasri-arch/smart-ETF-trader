@@ -1,0 +1,6 @@
+{
+  "name": "Smart ETF Trader",
+  "description": "AI-powered educational ETF analysis and paper-trading platform with real-time analytics, risk radar, rebalancing simulator, and AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
